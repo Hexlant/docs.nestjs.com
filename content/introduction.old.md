@@ -1,6 +1,6 @@
-### 소개
+### Introduction
 
-Nest (NestJS) 는 효율적이고 확장 가능한 [Node.js](https://nodejs.org/) 서버 사이드 애플리케이션을 만들기 위한 프레임워크입니다. Nest는 진보적인 JavaScript를 사용하며, [TypeScript](http://www.typescriptlang.org/) 를 완벽히 지원하고, Nest 자체도 TypeScript로 구현되었습니다 (물론 순수 JavaScript를 사용하여 개발하는 것도 가능합니다). 또한 Nest는 OOP (Object Oriented Programming), FP (Functional Programming), FRP (Functional Reactive Programming)의 여러 요소들을 포함하고 있습니다.
+Nest (NestJS) is a framework for building efficient, scalable [Node.js](https://nodejs.org/) server-side applications. It uses progressive JavaScript, is built with and fully supports [TypeScript](http://www.typescriptlang.org/) (yet still enables developers to code in pure JavaScript) and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
 
 Under the hood, Nest makes use of robust HTTP Server frameworks like [Express](https://expressjs.com/) (the default) and optionally can be configured to use [Fastify](https://github.com/fastify/fastify) as well!
 
